@@ -10,6 +10,3 @@ Soy estudiante de Ingenieria en Telecomunicacionesbase en la Universidad Naciona
 Mis lenguajes preferidos para la creación de paginas Web son "HTML", "CSS" y "JavaScript".
 Mi lenguaje preferido para la programación y machine learning es "Python"
 
-
-- <a href="https://gago7.github.io/Pagina-Web/">Pagina Web</a>  📹 ✍🏼
-
